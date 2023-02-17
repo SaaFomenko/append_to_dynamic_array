@@ -1,0 +1,6 @@
+[submodule "test/lib/userin"]
+	path = test/lib/userin
+	url = git@github.com:SaaFomenko/userin.git
+[submodule "test/lib/print_dynamic_array"]
+	path = test/lib/print_dynamic_array
+	url = git@github.com:SaaFomenko/print_dynamic_array.git
